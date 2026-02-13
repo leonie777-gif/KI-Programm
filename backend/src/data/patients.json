@@ -1,1 +1,24 @@
-
+[
+  {
+    "first_name": "Max",
+    "last_name": "Mustermann",
+    "date_of_birth": "",
+    "patient_id": "p-1768032075170",
+    "gruppe_id": "g-1",
+    "eltern_vorname": "",
+    "eltern_nachname": "",
+    "phone": "",
+    "notes": ""
+  },
+  {
+    "first_name": "Elias",
+    "last_name": "Mustermann",
+    "date_of_birth": "",
+    "patient_id": "p-1769509975325",
+    "gruppe_id": "g-3",
+    "eltern_vorname": "",
+    "eltern_nachname": "",
+    "phone": "",
+    "notes": ""
+  }
+]
